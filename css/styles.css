@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+}
+h2 {
+  color:white;
+  text-align: center;
+  line-height: 20px;
+  font-family: serif;
+}
+ul {
+  text-align: center;
+  line-height: 20px;
+  font-family: fantasy;
+}
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+p {
+  text-align: center;;
+}
+h3 {
+  text-align: center;
+}
+ol {
+  text-align: center;
+}
+img {text-align: center;}
+
+li {
+  text-align: left;
+}
