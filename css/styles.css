@@ -34,3 +34,12 @@ img {text-align: center;}
 li {
   text-align: left;
 }
+
+.dislikes {
+  color: red;
+  font-style: italic;
+}
+.likes  {
+  color: green;
+  font-style: bold;
+}
